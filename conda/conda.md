@@ -38,52 +38,52 @@ https://jupyter.org/install
 
 # Environment Management
 
-# Create a new environment
+### Create a new environment
 conda create --name myenv python=3.9
 
-# Activate an environment
+### Activate an environment
 conda activate myenv
 
-# Deactivate the current environment
+### Deactivate the current environment
 conda deactivate
 
-# List all environments
+### List all environments
 conda env list
 
-# Clone an environment
+### Clone an environment
 conda create --name new_env --clone myenv
 
-# Remove an environment
+### Remove an environment
 conda remove --name myenv --all
 
-# Export an environment to a file
+### Export an environment to a file
 conda env export > environment.yml
 
-# Create an environment from a file
+### Create an environment from a file
 conda env create -f environment.yml
 
 
 # Package Management
 
-# Install a package in the current environment
+### Install a package in the current environment
 conda install numpy
 
-# Install a package in a specific environment
+### Install a package in a specific environment
 conda install --name myenv pandas
 
-# Remove a package from the current environment
+### Remove a package from the current environment
 conda remove numpy
 
-# Update a specific package
+### Update a specific package
 conda update pandas
 
-# Update all packages in the current environment
+### Update all packages in the current environment
 conda update --all
 
-# List installed packages in the active environment
+### List installed packages in the active environment
 conda list
 
-# Search for a package in the Conda repository
+### Search for a package in the Conda repository
 conda search matplotli
 
 

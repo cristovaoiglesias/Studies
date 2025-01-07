@@ -53,6 +53,23 @@ conda search matplotli
 https://www.youtube.com/watch?v=1Tr1ifuSh6o&t=432s
 
 
+option1
+
+     conda create --name myenv \
+         python=3.10 \
+         pytorch-cuda=12.1 \
+         pytorch cudatoolkit xformers -c pytorch -c nvidia -c xformers \
+         -y
+     conda activate myenv
+
+option2
+
+     conda create --name myenv python=3.10
+     conda activate myenv
+     python3 -m pip install tensorflow[and-cuda]
+     pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+option3
 
      conda create --name tf_gpu python=3.10
      conda activate tf_gpu

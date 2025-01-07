@@ -73,13 +73,12 @@ option3
 
      conda create --name tf_gpu python=3.10
      conda activate tf_gpu
-
-    # https://www.tensorflow.org/install/pip
      python3 -m pip install tensorflow[and-cuda]
-     python3 -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
-
-    # https://pytorch.org/get-started/locally/
      pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+     python3 -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
+     python3 -c "import torch; print(torch.cuda.is_available())"
+
+     
 
 ## Important links
 
@@ -89,12 +88,12 @@ cuDNN Archive: https://developer.nvidia.com/rdp/cudnn-archive
 
 NVIDIA TensorRT 8.x Download: https://developer.nvidia.com/nvidia-tensorrt-8x-download
 
-https://repo.anaconda.com/miniconda/Miniconda3-py310_24.4.0-0-Linux-x86_64.sh
+anaconda https://repo.anaconda.com/miniconda/Miniconda3-py310_24.4.0-0-Linux-x86_64.sh
 
-https://pytorch.org/get-started/locally/
+pytorch https://pytorch.org/get-started/locally/
 
-https://www.tensorflow.org/install/pip
+tensorflow https://www.tensorflow.org/install/pip
 
-https://jupyter.org/install
+jupyter https://jupyter.org/install
 
 

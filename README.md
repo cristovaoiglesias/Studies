@@ -11,6 +11,7 @@
 - https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python
 - https://www.kaggle.com/code/joydeb28/awesome-data-science-cheatsheet
 - https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf
+- https://github.com/yash42828/Data-Science--All-Cheat-Sheet
 
 ## Interview Question
 - https://blog.finxter.com/python-interview-questions/

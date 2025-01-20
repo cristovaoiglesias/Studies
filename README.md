@@ -58,6 +58,8 @@ https://github.com/yunjey/pytorch-tutorial?tab=readme-ov-file
 # Natural Language Processing (NLP) 
 - https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/?ref=outind
 - https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/5-NLP/14-Embeddings/EmbeddingsPyTorch.ipynb
+- https://huggingface.co/learn/nlp-course/chapter0/1
+- 
 
 
 # pandas

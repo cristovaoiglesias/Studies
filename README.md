@@ -18,7 +18,17 @@
 
 ## CUDA
 
-## ML
+## ML lifeClycle
+- https://www.geeksforgeeks.org/machine-learning-lifecycle/
+- https://towardsdatascience.com/building-better-ml-systems-chapter-1-every-project-must-start-with-a-plan-907a36774a32
+- https://www.geeksforgeeks.org/machine-learning-deployment/
+- https://shelf.io/blog/machine-learning-deployment/
+- https://fennel.ai/blog/feature-engineering-for-fraud-detection/
+- https://www.datacamp.com/blog/machine-learning-lifecycle-explained
+- https://www.geeksforgeeks.org/how-to-plot-confusion-matrix-with-labels-in-sklearn/
+- https://trustdecision.com/resources/blog/5-new-machine-learning-algorithms-for-fraud-detection
+- https://www.getfocal.ai/blog/fraud-detection-with-machine-learning
+- https://repository.rit.edu/cgi/viewcontent.cgi?article=11833&context=theses
 
 
 

@@ -64,12 +64,15 @@ https://github.com/yunjey/pytorch-tutorial?tab=readme-ov-file
 
 ## Julia
 
+## VLM
+- https://github.com/SkalskiP/vlms-zero-to-hero/tree/master
 
 # Natural Language Processing (NLP) 
 - https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/?ref=outind
 - https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/5-NLP/14-Embeddings/EmbeddingsPyTorch.ipynb
 - https://huggingface.co/learn/nlp-course/chapter0/1
 - https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html
+- https://github.com/SkalskiP/vlms-zero-to-hero/tree/master
 
 
 # pandas
